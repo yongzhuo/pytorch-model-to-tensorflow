@@ -1,0 +1,9 @@
+tensorflow==2.8.0
+keras==2.8.0
+torch==1.8.0
+tensorflow-probability==0.16.0
+tensorflow-addons==0.16.1
+transformers==4.15.0
+protobuf==3.19.2
+onnx-tf==1.8.0
+onnx==1.8.1
